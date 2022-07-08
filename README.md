@@ -7,11 +7,11 @@ cryptweb = 'cryptweb'
 print('Follow', cryptweb, 'on Github')
 ```
 
-```lua
-       OS = nt10
-      Lua = 5.4.4
-Languages = Lua, node.JS, C#, C++
-  Discord = 669415917838663731
+```python
+       OS: nt10
+      Lua: 5.4.4
+Languages: Lua, node.JS, C#, C++
+  Discord: 669415917838663731
 ```
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
