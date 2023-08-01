@@ -2,15 +2,16 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Cryptweb" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Cryptweb" alt="Profile Forks"></a>
 
+DEVELOPER @ discord.gg/pollux
+
 ```lua
 cryptweb = 'cryptweb'
 print('Follow', cryptweb, 'on Github')
 ```
 
 ```python
-       OS: nt10
-      Lua: 5.4.4
-Languages: Lua, node.JS, C#, C++
+       OS: Windows 11
+Languages: Lua | no longer code in: node.JS (sometimes), C#, C++
   Discord: 669415917838663731
 ```
 
