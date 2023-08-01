@@ -14,5 +14,3 @@ print('Follow', cryptweb, 'on Github')
 Languages: Lua | no longer code in: node.JS (sometimes), C#, C++
   Discord: 669415917838663731
 ```
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
